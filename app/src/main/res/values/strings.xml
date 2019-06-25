@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Roger</string>
+
+
+
+
+    <string name="banner1">ca-app-pub-6423485246496128/6246466778</string>
+    <string name="banner2">ca-app-pub-6423485246496128/5915294284</string>
+    <string name="banner3">ca-app-pub-6423485246496128/4797653738</string>
+    <string name="banner4">ca-app-pub-6423485246496128/5158183174</string>
+    <string name="banner5">ca-app-pub-6423485246496128/1993141395</string>
+    <string name="banner6">ca-app-pub-6423485246496128/5915294284</string>
+
+
+
+    <string name="interstitial1">ca-app-pub-6423485246496128/7176405067</string>
+    <string name="interstitial2">ca-app-pub-6423485246496128/8175406365</string>
+    <string name="interstitial3">ca-app-pub-6423485246496128/4647224895</string>
+    <string name="interstitial4">ca-app-pub-6423485246496128/1924078388</string>
+    <string name="interstitial5">ca-app-pub-6423485246496128/6737421365</string>
+    <string name="interstitial6">ca-app-pub-6423485246496128/8175406365</string>
+
+
+    <string name="description1">"This Screen Contains 2 Banner Ads and 2 Interstitial Ads"</string>
+    <string name="description2">"This Screen Contains 1 Banner Ad  and 1 Interstitial Ad"</string>
+
+
+</resources>
