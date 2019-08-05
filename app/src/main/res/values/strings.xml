@@ -4,21 +4,20 @@
 
 
 
-    <string name="banner1">ca-app-pub-6423485246496128/6246466778</string>
-    <string name="banner2">ca-app-pub-6423485246496128/5915294284</string>
-    <string name="banner3">ca-app-pub-6423485246496128/4797653738</string>
-    <string name="banner4">ca-app-pub-6423485246496128/5158183174</string>
-    <string name="banner5">ca-app-pub-6423485246496128/1993141395</string>
-    <string name="banner6">ca-app-pub-6423485246496128/5915294284</string>
+    <string name="banner1">ca-app-pub-3055673335361024/3317060845</string>
+    <string name="banner2">ca-app-pub-3055673335361024/4175187224</string>
+    <string name="banner3">ca-app-pub-3055673335361024/9235942219</string>
+    <string name="banner4">ca-app-pub-3055673335361024/4179056656</string>
+    <string name="banner5">ca-app-pub-3055673335361024/2670533868</string>
+    <string name="banner6"> ca-app-pub-3055673335361024/6418207182</string>
 
 
-
-    <string name="interstitial1">ca-app-pub-6423485246496128/7176405067</string>
-    <string name="interstitial2">ca-app-pub-6423485246496128/8175406365</string>
-    <string name="interstitial3">ca-app-pub-6423485246496128/4647224895</string>
-    <string name="interstitial4">ca-app-pub-6423485246496128/1924078388</string>
-    <string name="interstitial5">ca-app-pub-6423485246496128/6737421365</string>
-    <string name="interstitial6">ca-app-pub-6423485246496128/8175406365</string>
+    <string name="interstitial1"> ca-app-pub-3055673335361024/7381440695</string>
+    <string name="interstitial2">ca-app-pub-3055673335361024/6745510243</string>
+    <string name="interstitial3">ca-app-pub-3055673335361024/7867020228</string>
+    <string name="interstitial4">ca-app-pub-3055673335361024/3927775211</string>
+    <string name="interstitial5">ca-app-pub-3055673335361024/6362366865</string>
+    <string name="interstitial6">ca-app-pub-3055673335361024/3736203529</string>
 
 
     <string name="description1">"This Screen Contains 2 Banner Ads and 2 Interstitial Ads"</string>
